@@ -1,5 +1,6 @@
-package hw;
+package hw.hw1;
 import java.lang.Math;
+
 
 public class Cube {
     private long cubeSum(long begin, long end) {
